@@ -79,6 +79,9 @@
 .link8 {
     color: blue;
 }
+.link8:hover {
+    color: blueviolet;
+}
 .week4 > li:nth-child(-n+2) {
     color: khaki;
 }
