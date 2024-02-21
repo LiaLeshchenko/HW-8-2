@@ -1,0 +1,108 @@
+.lessen1 {
+    color: fuchsia;
+}
+.lessen1:hover{
+    color: purple           ;
+}
+.lessen1:focus {
+    color: crimson;
+}
+.lessen1 {
+    margin-top: 15px
+}
+.lessen2 {
+    margin-top: 7px
+}
+.lessen2 {
+    color: blue;
+}
+.lessen2:hover {
+    color: cornflowerblue;
+} 
+.lessen3 {
+    color: chocolate;
+}
+.lessen3:hover {
+    color: gold;
+}
+.lessen4 {
+    color: darkgreen;
+}
+.lessen4:hover {
+    color: chartreuse;
+}
+.lessen5 {
+    color: teal;
+}
+.lessen5:hover {
+    color: aqua;
+}
+.link1 {
+    color: teal;
+}
+.link1:hover {
+    color: aqua;
+}
+.link2 {
+    color: darkgreen
+}
+.link2:hover {
+    color: chartreuse;
+}
+.link3 {
+    color: chocolate;
+}
+.link3:hover {
+    color: gold;
+}
+.link4 {
+    color: blue;
+}
+.link4:hover {
+    color: cornflowerblue;
+} 
+.link5 {
+    color: fuchsia;
+}
+.link5:hover{
+    color: purple           ;
+}
+.week3 > li:nth-child(2n) {
+    color: blueviolet;
+}
+.week3 > li:first-child {
+    color: aquamarine;
+}
+.week3 > li:last-child {
+    color: greenyellow;
+}
+.link8 {
+    color: blue;
+}
+.week4 > li:nth-child(-n+2) {
+    color: khaki;
+}
+.week4 > li:nth-child(3n) {
+    color: cornflowerblue;
+}
+.week4 > li:nth-child(4n) {
+    color: darkmagenta;
+}
+.week4 > li:last-child {
+    color: tomato;
+}
+.week5 > li:nth-child(-n+2) {
+    color: indigo;
+}
+.week5 > li:last-child {
+    color: aquamarine;
+}
+.week5 > li:nth-child(3n) {
+    color: olive;
+}
+.link19 {
+    color: hotpink;
+}
+.link19:hover {
+    color: lawngreen;
+}
